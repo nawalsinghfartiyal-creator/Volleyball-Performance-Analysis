@@ -3,6 +3,8 @@
 📊 Project Overview
 This project performs Exploratory Data Analysis (EDA) on volleyball performance data to uncover patterns across player positions, teams, and age groups. Using Python data analysis tools, we examine how different performance metrics—such as attack, block, and serve statistics—vary across the dataset.The goal of this project is to demonstrate how data analytics can provide actionable insights in sports, helping coaches, analysts, and teams make informed strategic decisions.
 
+
+
 🎯 Objectives
 
 1. Analyze volleyball performance metrics using Python and Pandas
@@ -11,26 +13,35 @@ This project performs Exploratory Data Analysis (EDA) on volleyball performance 
 4. Compare team-level performance metrics
 5. Demonstrate the value of EDA in sports analytics
 
+
+
 📁 Dataset
 
 The dataset contains volleyball performance statistics including:
   
   Player Position (Outside Hitter, Opposite, Middle Blocker, etc.)
+  
   Team / Country
+  
   Age
+  
   Attack Metrics
+  
   Block Metrics
+  
   Serve Metrics
+
+
 
 
 🛠 Tools & Technologies
 
-1. The analysis was conducted using:
-2. Python
-3. Pandas – Data manipulation and analysis
-4. NumPy – Numerical operations
-5. Matplotlib / Seaborn – Data visualization
-6. Jupyter Notebook – Interactive analysis environment
+  1. The analysis was conducted using:
+  2. Python
+  3. Pandas – Data manipulation and analysis
+  4. NumPy – Numerical operations
+  5. Matplotlib / Seaborn – Data visualization
+  6. Jupyter Notebook – Interactive analysis environment
 
 
 
@@ -62,13 +73,12 @@ Key EDA steps included:
 
 📈 Key Insights
 
-Some of the main insights discovered include:
-
-  Opposite and Outside Hitter positions dominate offensive contributions
-  Serving performance peaks in early adulthood
-  Serve effectiveness gradually declines with age
-  Top-performing teams show balanced attack and block performance
-  Certain teams consistently outperform others in combined metrics
+  Some of the main insights discovered include:
+      Opposite and Outside Hitter positions dominate offensive contributions
+      Serving performance peaks in early adulthood
+      Serve effectiveness gradually declines with age
+      Top-performing teams show balanced attack and block performance
+      Certain teams consistently outperform others in combined metrics
 
 
 🧠 Conclusion
