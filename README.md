@@ -8,28 +8,31 @@ This project performs Exploratory Data Analysis (EDA) on volleyball performance 
 🎯 Objectives
 
 1. Analyze volleyball performance metrics using Python and Pandas
+
 2. Identify performance differences between player positions
+
 3. Explore trends in performance across age groups
+
 4. Compare team-level performance metrics
+
 5. Demonstrate the value of EDA in sports analytics
 
 
 
 📁 Dataset
-
 The dataset contains volleyball performance statistics including:
   
-  Player Position (Outside Hitter, Opposite, Middle Blocker, etc.)
+  * Player Position (Outside Hitter, Opposite, Middle Blocker, etc.)
   
-  Team / Country
+  * Team / Country
   
-  Age
+  * Age
   
-  Attack Metrics
+  * Attack Metrics
   
-  Block Metrics
+  * Block Metrics
   
-  Serve Metrics
+  * Serve Metrics
 
 
 
@@ -37,10 +40,15 @@ The dataset contains volleyball performance statistics including:
 🛠 Tools & Technologies
 
   1. The analysis was conducted using:
+  
   2. Python
+  
   3. Pandas – Data manipulation and analysis
+  
   4. NumPy – Numerical operations
+  
   5. Matplotlib / Seaborn – Data visualization
+  
   6. Jupyter Notebook – Interactive analysis environment
 
 
@@ -72,13 +80,12 @@ Key EDA steps included:
 
 
 📈 Key Insights
-
-  Some of the main insights discovered include:
-      Opposite and Outside Hitter positions dominate offensive contributions
-      Serving performance peaks in early adulthood
-      Serve effectiveness gradually declines with age
-      Top-performing teams show balanced attack and block performance
-      Certain teams consistently outperform others in combined metrics
+    Some of the main insights discovered include:
+      * Opposite and Outside Hitter positions dominate offensive contributions
+      * Serving performance peaks in early adulthood
+      * Serve effectiveness gradually declines with age
+      * Top-performing teams show balanced attack and block performance
+      * Certain teams consistently outperform others in combined metrics
 
 
 🧠 Conclusion
