@@ -61,23 +61,23 @@ The dataset contains volleyball performance statistics including:
 
 Key EDA steps included:
   
-  1.Data Cleaning
+    1.Data Cleaning
       Handling missing values
       Standardizing variables
 
-  2. Descriptive Statistics
+    2. Descriptive Statistics
       Mean, median, and distribution of performance metrics
 
-  3. Position-Based Analysis
+    3. Position-Based Analysis
       Comparing attack contributions across positions
       
-  4. Age-Based Trends
+    4. Age-Based Trends
        Investigating how serve performance changes with age
 
-  5. Team Comparisons
+    5. Team Comparisons
        Evaluating attack and block performance across teams
 
-  6. Visualizations
+    6. Visualizations
        Bar charts
        Distribution plots
        Performance comparisons       
