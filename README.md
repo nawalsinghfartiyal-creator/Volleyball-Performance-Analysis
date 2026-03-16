@@ -43,17 +43,17 @@ The dataset contains volleyball performance statistics including:
 
 ## 🛠 Tools & Technologies
 
-  1. The analysis was conducted using:
+The analysis was conducted using:
   
-  2. Python
+  - **Python**
   
-  3. Pandas – Data manipulation and analysis
+  - **Pandas – Data manipulation and analysis**
   
-  4. NumPy – Numerical operations
+  - **NumPy – Numerical operations**
   
-  5. Matplotlib / Seaborn – Data visualization
+  - **Matplotlib / Seaborn – Data visualization**
   
-  6. Jupyter Notebook – Interactive analysis environment
+  - **Jupyter Notebook – Interactive analysis environment**
 
 
 
@@ -61,26 +61,26 @@ The dataset contains volleyball performance statistics including:
 
 Key EDA steps included:
   
-    1.Data Cleaning
-      Handling missing values
-      Standardizing variables
+  1. **Data Cleaning**
+      - Handling missing values
+      - Standardizing variables
 
-    2. Descriptive Statistics
+  2. **Descriptive Statistics**
       Mean, median, and distribution of performance metrics
 
-    3. Position-Based Analysis
-      Comparing attack contributions across positions
+  3. **Position-Based Analysis**
+    Comparing attack contributions across positions
       
-    4. Age-Based Trends
+  4. **Age-Based Trends**
        Investigating how serve performance changes with age
 
-    5. Team Comparisons
+  5. **Team Comparisons**
        Evaluating attack and block performance across teams
 
-    6. Visualizations
-       Bar charts
-       Distribution plots
-       Performance comparisons       
+  6. **Visualizations**
+       - Bar charts
+       - Distribution plots
+       - Performance comparisons       
 
 
 ## 📈 Key Insights
