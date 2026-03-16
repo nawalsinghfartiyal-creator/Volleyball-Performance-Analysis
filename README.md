@@ -66,16 +66,16 @@ Key EDA steps included:
       - Standardizing variables
 
   2. **Descriptive Statistics**
-      Mean, median, and distribution of performance metrics
+      - Mean, median, and distribution of performance metrics
 
   3. **Position-Based Analysis**
-    Comparing attack contributions across positions
+      - Comparing attack contributions across positions
       
   4. **Age-Based Trends**
-       Investigating how serve performance changes with age
+       - Investigating how serve performance changes with age
 
   5. **Team Comparisons**
-       Evaluating attack and block performance across teams
+       - Evaluating attack and block performance across teams
 
   6. **Visualizations**
        - Bar charts
@@ -86,16 +86,12 @@ Key EDA steps included:
 ## 📈 Key Insights
 
 Some of the main insights discovered include:
-     
-      * Opposite and Outside Hitter positions dominate offensive contributions
-      
-      * Serving performance peaks in early adulthood
-     
-      * Serve effectiveness gradually declines with age
-      
-      * Top-performing teams show balanced attack and block performance
-      
-      * Certain teams consistently outperform others in combined metrics
+
+  - Opposite and Outside Hitter positions dominate offensive contributions
+  - Serving performance peaks in early adulthood
+  - Serve effectiveness gradually declines with age
+  - Top-performing teams show balanced attack and block performance
+  - Certain teams consistently outperform others in combined metrics
 
 
 ## 🧠 Conclusion
